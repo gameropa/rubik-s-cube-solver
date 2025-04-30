@@ -1,0 +1,9 @@
+modules:
+  cube: "cube"
+  solver: "solver"
+  analyzer: "analyzer"
+  os: "os"
+  random: "random"
+  yaml: "yaml"
+files:
+  algorithms: "algorithms.yaml"

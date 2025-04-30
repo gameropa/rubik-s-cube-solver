@@ -1,0 +1,35 @@
+beginner_method:
+  - name: "White Cross"
+    strategies:
+      - description: "Einfacher Kreuzaufbau"
+        steps: ["F R U R' U' F'"]
+
+  - name: "White Corners"
+    strategies:
+      - description: "Ecke einsetzen"
+        steps: ["R' D' R D"]
+
+  - name: "Second Layer"
+    strategies:
+      - description: "Kante rechts einfügen"
+        steps: ["U R U' R' U' F' U F"]
+
+  - name: "Yellow Cross"
+    strategies:
+      - description: "Gelbes Kreuz bilden"
+        steps: ["F R U R' U' F'"]
+
+  - name: "Orient Yellow Corners"
+    strategies:
+      - description: "Gelbe Ecken orientieren"
+        steps: ["R U R' U R U2 R'"]
+
+  - name: "Position Yellow Corners"
+    strategies:
+      - description: "Gelbe Ecken positionieren"
+        steps: ["U R U' L' U R' U' L"]
+
+  - name: "Position Yellow Edges"
+    strategies:
+      - description: "Gelbe Kanten positionieren"
+        steps: ["F2 U L R' F2 L' R U F2"]
